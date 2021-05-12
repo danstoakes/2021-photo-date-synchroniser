@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PhotoDateSynchroniser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Cate\\source\\repos\\MediaDateFixer\\PhotoDateFixer\\data C:\\Users\\Cate\\source\\repos\\MediaDateFixer\\PhotoDateFixer\\output"
+    }
+  }
+}
